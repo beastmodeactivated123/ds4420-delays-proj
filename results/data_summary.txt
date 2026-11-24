@@ -1,0 +1,17 @@
+Months: 21
+Raw flights: 12,300,617
+Cancelled removed: 211,665
+Diverted removed: 37,010
+Flights after cleaning: 12,051,941
+Share late (15+ min): 22.81%
+2025 flights: 6,879,484
+2026 flights: 5,172,457
+Carrier-airport pairs: 1,709
+Pairs with < 100 flights: 97
+
+Share of delay minutes by cause:
+CarrierDelay         32.5%
+WeatherDelay          6.3%
+NASDelay             21.4%
+SecurityDelay         0.1%
+LateAircraftDelay    39.6%
